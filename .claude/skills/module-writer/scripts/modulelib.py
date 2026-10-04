@@ -101,8 +101,6 @@ def parse_module(path):
     sections = split_sections(body)
     titles = [t for t, _ in sections]
     lesson = next((s for t, s in sections if t.lower() == "lesson"), None)
-    examples = [{"title": re.sub(r"^Example\s*\d+\s*:\s*", "", t) if re.match(r"^Example", t) else t, "body": s}
-                for t, s in sections if re.match(r"^(Example|Stage)\b", t)]
     quiz_text = next((s for t, s in sections if t.lower() == "quiz"), None)
     if lesson is None:
         errors.append("missing '# Lesson' section")
