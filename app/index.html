@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HoldCo Learning</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/">HoldCo <span>Learning</span></a>
+    <nav class="topnav" id="topnav" aria-label="Tracks"></nav>
+  </header>
+  <main id="app" tabindex="-1"><p class="muted">Loading…</p></main>
+  <footer class="footer">
+    <p>Lessons are educational, not legal, tax, or investment advice. Stories are illustrative composites and figures are examples; market data, rates, and tax and lending rules change, so verify current numbers with your lender, CPA, or attorney before acting.</p>
+    <p class="footer-actions">
+      <button class="link" id="export-btn">Export progress</button> ·
+      <label class="link">Import progress<input type="file" id="import-file" accept="application/json" hidden></label> ·
+      <button class="link danger" id="reset-btn">Reset all progress</button>
+    </p>
+    <p class="muted small">Progress is saved in this browser only (localStorage). Export a backup now and then.</p>
+  </footer>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="content.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

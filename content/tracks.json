@@ -1,0 +1,101 @@
+{
+  "tracks": [
+    {
+      "id": "real-estate",
+      "prefix": "re",
+      "name": "Real Estate",
+      "tagline": "Buy, finance, operate, and exit income property without getting hurt.",
+      "description": "From the four ways real estate makes money to a full 48-unit value-add deal, taught the way a veteran owner would teach one apprentice.",
+      "accent": "#b45f2b",
+      "syllabus": [
+        { "number": 1, "title": "How Real Estate Actually Makes Money", "summary": "The four return engines, leverage, and what you're really buying." },
+        { "number": 2, "title": "Reading a Market Before You Read a Deal", "summary": "Jobs, supply pipelines, rent-to-income, and how to test a market on foot." },
+        { "number": 3, "title": "Property Types and Lease Structures", "summary": "Multifamily, NNN, gross leases, tenant credit, and rollover risk." },
+        { "number": 4, "title": "NOI, Cap Rates, and the Operating Statement", "summary": "Rebuilding NOI from a T-12 and turning a cap rate into a price." },
+        { "number": 5, "title": "Cash-on-Cash, DSCR, Debt Yield, and Breakeven", "summary": "The metrics that decide whether a loan gets made and whether you sleep." },
+        { "number": 6, "title": "Financing: Choosing and Surviving Your Debt", "summary": "Fixed vs. floating, rate caps, prepayment penalties, assumptions, recourse." },
+        { "number": 7, "title": "IRR, Equity Multiple, and Sensitivity", "summary": "Time value of money, hold periods, and why exit assumptions decide everything." },
+        { "number": 8, "title": "Due Diligence: What to Check, in What Order", "summary": "Reconciling rent roll, T-12 and bank statements; inspections; estoppels; deal-killers." },
+        { "number": 9, "title": "Value-Add and Renovation Math", "summary": "Unit-level ROI, budgets and contingency, downtime, and forced appreciation." },
+        { "number": 10, "title": "Property Management and Operations", "summary": "Fees, turns, collections, staffing, and managing your manager." },
+        { "number": 11, "title": "Taxes: Depreciation, Cost Segregation, 1031s", "summary": "How the tax code changes the real return, and where the traps are." },
+        { "number": 12, "title": "Risk: What Actually Kills Deals", "summary": "Stress tests, insurance and tax shocks, refinance risk, and capital calls." },
+        { "number": 13, "title": "Exit: Sell, Refinance, or Hold", "summary": "Marginal return on equity, cash-out refis, and timing a disposition." }
+      ],
+      "capstone": { "title": "Capstone: The 48-Unit Value-Add", "summary": "A full deal from screen to sale: underwrite, diligence, renegotiate, finance, renovate, stress, exit." }
+    },
+    {
+      "id": "small-business",
+      "prefix": "sb",
+      "name": "Small Business Acquisition",
+      "tagline": "Find, value, finance, buy, and run an existing main-street business.",
+      "description": "The search-fund-style path for an individual buyer: SBA financing, quality of earnings, LOIs, and the first hundred days.",
+      "accent": "#2b6fb4",
+      "syllabus": [
+        { "number": 1, "title": "The Acquisition Thesis: Buy vs. Build", "summary": "Why buying a cash-flowing business changes your risk curve." },
+        { "number": 2, "title": "Sourcing Deals: Brokers, Direct Outreach, Marketplaces", "summary": "Where deals actually come from and how to get first look." },
+        { "number": 3, "title": "Earnings: SDE, EBITDA, and Add-backs", "summary": "What the owner actually takes home, and which add-backs are fiction." },
+        { "number": 4, "title": "Valuation: Multiples and What They Hide", "summary": "Why 3x and 5x mean different things; size, growth, and concentration." },
+        { "number": 5, "title": "Quality of Earnings and Financial Diligence", "summary": "Tax returns vs. books vs. bank deposits; working-capital traps." },
+        { "number": 6, "title": "Commercial Diligence: Customers, Contracts, Concentration", "summary": "Retention, churn, key-person risk, and the customer calls that matter." },
+        { "number": 7, "title": "The LOI: Price, Terms, Exclusivity", "summary": "What to put in, what to leave open, and how to keep leverage." },
+        { "number": 8, "title": "SBA 7(a) Financing Mechanics", "summary": "Equity injection, DSCR, collateral, personal guarantees, timelines." },
+        { "number": 9, "title": "Seller Notes, Earn-outs, Rollovers, and Working-Capital Pegs", "summary": "Structure that closes the valuation gap without a trap." },
+        { "number": 10, "title": "The Purchase Agreement: Asset vs. Stock, Reps and Indemnities", "summary": "What the lawyers protect and what only you can." },
+        { "number": 11, "title": "Closing and the First 100 Days", "summary": "Sequencing the first three months so nothing breaks." },
+        { "number": 12, "title": "Transitions: Employees, Customers, the Departing Owner", "summary": "Handover design, retention, and the seller who won't let go." },
+        { "number": 13, "title": "Operating, Improving, and Deciding What's Next", "summary": "Cash discipline, growth levers, and the second acquisition." }
+      ],
+      "capstone": { "title": "Capstone: Buying a $1.2M Commercial Services Company", "summary": "From first call with a broker to day 100, with a QoE surprise in the middle." }
+    },
+    {
+      "id": "holdco",
+      "prefix": "hc",
+      "name": "HoldCo Structure & Credit",
+      "tagline": "Design the structure above the businesses and the debt that sits on it.",
+      "description": "Entity architecture, intercompany flows, capital allocation, and how lenders actually read a multi-entity group.",
+      "accent": "#5b8a3a",
+      "syllabus": [
+        { "number": 1, "title": "What a HoldCo Is (and Isn't)", "summary": "Why own through a holding company, and when it's just overhead." },
+        { "number": 2, "title": "Entity Architecture: HoldCo, OpCo, PropCo", "summary": "Liability silos, asset protection, and what actually holds up." },
+        { "number": 3, "title": "Tax Structure: Pass-Throughs, C Corps, Consolidation", "summary": "How structure changes after-tax returns and exit options." },
+        { "number": 4, "title": "Intercompany Flows: Fees, Dividends, and Loans", "summary": "Moving cash legitimately and keeping the records that prove it." },
+        { "number": 5, "title": "Capital Allocation: A Framework", "summary": "Reinvest, acquire, pay down debt, distribute: how to rank them." },
+        { "number": 6, "title": "Reading Financials for Credit", "summary": "Consolidated vs. standalone, quality of cash flow, hidden obligations." },
+        { "number": 7, "title": "Leverage Ratios and Covenants", "summary": "Debt/EBITDA, fixed-charge coverage, and the covenants that bite." },
+        { "number": 8, "title": "The Debt Stack: Senior, Mezzanine, Seller, Preferred", "summary": "Who gets paid first and what each layer really costs." },
+        { "number": 9, "title": "Structural Subordination, Guarantees, and Cross-Collateralization", "summary": "How one entity's trouble reaches another's assets." },
+        { "number": 10, "title": "Cash Management and Liquidity Planning", "summary": "Sweeps, reserves, revolvers, and the 13-week cash forecast." },
+        { "number": 11, "title": "Credit Analysis: Five Cs, Downside Cases, Stress", "summary": "Thinking like the lender you will eventually need." },
+        { "number": 12, "title": "Raising Capital: Partners, Preferred Returns, Promotes", "summary": "GP/LP economics, waterfalls, and alignment." },
+        { "number": 13, "title": "Governance, Succession, and Distress", "summary": "Decision rights, key-person plans, and workouts when it goes wrong." }
+      ],
+      "capstone": { "title": "Capstone: Building a Three-Company HoldCo and Refinancing It", "summary": "From first acquisition to a consolidated credit facility, end to end." }
+    },
+    {
+      "id": "mbk-film",
+      "prefix": "mbk",
+      "name": "MBK Productions: Filmmaking",
+      "tagline": "Screenwriting, directing, acting, and no-budget production.",
+      "description": "A working filmmaker's course for making something real with almost nothing: story, craft, performance, and the logistics that decide whether you finish.",
+      "accent": "#8a3a6b",
+      "syllabus": [
+        { "number": 1, "title": "Why Story Structure Exists", "summary": "Acts, turning points, and what a screenplay is actually for." },
+        { "number": 2, "title": "Character: Want, Need, and Contradiction", "summary": "Building people an actor wants to play." },
+        { "number": 3, "title": "Scene Craft: Conflict, Subtext, Entering Late", "summary": "Why every scene needs a turn." },
+        { "number": 4, "title": "Dialogue That Does Two Jobs", "summary": "Subtext, rhythm, and cutting the line everyone loves." },
+        { "number": 5, "title": "Writing for Production: Format and Constraints", "summary": "Page counts, locations, and writing what you can afford to shoot." },
+        { "number": 6, "title": "Rewriting: Notes, Table Reads, Cuts", "summary": "How to diagnose a draft and fix the right thing." },
+        { "number": 7, "title": "The Director's Job: Vision, Tone, Prep", "summary": "Decisions made before the shoot are the ones that count." },
+        { "number": 8, "title": "Visual Grammar: Coverage, Blocking, Lenses", "summary": "Shot lists that cut together and survive a bad day." },
+        { "number": 9, "title": "Directing Actors", "summary": "Language, adjustments, and getting the take you need." },
+        { "number": 10, "title": "Acting Craft: Objectives, Tactics, Auditions", "summary": "What actors need from a director, and what directors should know." },
+        { "number": 11, "title": "No-Budget Scheduling and Budgeting", "summary": "Shooting ratio, pages per day, and where the money really goes." },
+        { "number": 12, "title": "Locations, Sound, and Light on Nothing", "summary": "Getting production value from permission, patience, and a window." },
+        { "number": 13, "title": "Casting, Crew, Releases, and Keeping People", "summary": "Paperwork and psychology of an unpaid or underpaid set." },
+        { "number": 14, "title": "Post, Festivals, and Getting Seen", "summary": "Edit, sound, color, music rights, and a realistic release plan." }
+      ],
+      "capstone": { "title": "Capstone: A Short Film from Script to Festival on $5,000", "summary": "Write, prep, schedule, shoot, and submit, with a bad-weather day built in." }
+    }
+  ]
+}
